@@ -1,6 +1,6 @@
 # Disney Plus Clone Readme
 
-## [LIVE DEMO](https://visneyplus.web.app/home)
+## [LIVE DEMO](https://visneyplus.web.app)
 
 ## Description
 
